@@ -1,1 +1,1 @@
-console.log("Webpacks Successfull");
+import "../src/styles.css";
